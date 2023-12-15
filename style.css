@@ -1,0 +1,26 @@
+body{
+    width: 100%;
+}
+#logo{
+    color: orange;
+    font-weight: bold;
+    font-size: 40px;
+}
+img{
+    height: auto;
+    width: 20%;
+    margin-left: 35%;
+}
+
+.recipe{
+    list-style-type: none;
+    font-size: 22px;
+}
+.recipe a{
+    text-decoration: none;
+    margin-left: 15%;
+    color: #000007;
+}
+.recipe a:hover{
+    background-color: orange;
+}
